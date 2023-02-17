@@ -1,0 +1,3 @@
+The dataset used here is taken from the UCI Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/air+quality#:~:text=The%20dataset%20contains%209358%20instances,level%2Cwithin%20an%20Italian%20city
+
+The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level,within an Italian city. The observations recorded are from 2004 to 2005 (one year) with the equal interval of 1 hour. And the data has a strong seasonality of 24 hours. 
